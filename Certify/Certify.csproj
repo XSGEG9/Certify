@@ -61,12 +61,12 @@
     <Reference Include="Interop.CERTCLILib, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
       <EmbedInteropTypes>True</EmbedInteropTypes>
-      <HintPath>.\Interop.CERTCLILib.dll</HintPath>
+      <HintPath>C:\temp\Interop.CERTCLILib.dll</HintPath>
     </Reference>
     <Reference Include="Interop.CERTENROLLLib, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
       <EmbedInteropTypes>False</EmbedInteropTypes>
-      <HintPath>.\Interop.CERTENROLLLib.dll</HintPath>
+      <HintPath>C:\temp\Interop.CERTENROLLLib.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
